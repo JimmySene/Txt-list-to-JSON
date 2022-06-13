@@ -1,0 +1,20 @@
+{
+  "name": "get-json-array",
+  "version": "1.0.0",
+  "description": "This tool allows you to get JSON Array from a simple list text file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmySene/Get-JSON-Array.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmySene/Get-JSON-Array/issues"
+  },
+  "homepage": "https://github.com/JimmySene/Get-JSON-Array#readme"
+}

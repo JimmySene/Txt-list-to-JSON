@@ -1,0 +1,1 @@
+Put your items line by line, and run program.
