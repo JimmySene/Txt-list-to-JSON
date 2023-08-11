@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JimmySene/Get-JSON-Array.git"
+    "url": "git+https://github.com/JimmySene/Txt-list-to-JSON.git"
   },
-  "keywords": ["JSON", "list", "text", "file"],
+  "keywords": ["json", "list", "text", "file", "txt to json", "txt 2 json"],
   "author": "J.S",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JimmySene/Get-JSON-Array/issues"
+    "url": "https://github.com/JimmySene/Txt-list-to-JSON/issues"
   },
-  "homepage": "https://github.com/JimmySene/Get-JSON-Array#readme"
+  "homepage": "https://github.com/JimmySene/Txt-list-to-JSON#readme"
 }
