@@ -1,8 +1,11 @@
 {
-  "name": "get-json-array",
-  "version": "1.0.0",
-  "description": "This tool allows you to get JSON Array from a simple list text file.",
-  "main": "index.js",
+  "name": "txtlist2json",
+  "version": "0.1.0",
+  "description": "This tool allows you to create a JSON list from a simple text file.",
+  "main": "bin/index.js",
+  "bin": {
+    "txtlist2json": "./bin/index.js"
+  },
   "scripts": {
     "start": "node ."
   },
@@ -10,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/JimmySene/Get-JSON-Array.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["JSON", "list", "text", "file"],
+  "author": "J.S",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JimmySene/Get-JSON-Array/issues"

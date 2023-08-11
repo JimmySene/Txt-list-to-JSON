@@ -1,11 +1,13 @@
-# Get JSON Array
+# Txt list to JSON
 
-This tool allows you to get JSON Array from a simple list text file.
+This tool allows you to get a JSON list from a simple .txt file.
 
 ## How to use
 
-Put your list in *list.txt* file, one item by line, and launch program with `npm start` command.
+You need to install the global NPM module : `npm i -g txtlist2json`
 
-You get the JSON array in *list.json* new file.
+Put your list in a *.txt* file, one item by line, and launch `txtlist2json` command with .txt file in argument.
+
+You get the JSON list in *list.json* new file.
 
 ![How to Use](./how-to-use.gif)
