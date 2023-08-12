@@ -1,11 +1,14 @@
 {
   "name": "txtlist2json",
   "version": "0.1.0",
-  "description": "This tool allows you to create a JSON list from a simple text file.",
+  "description": "This tool allows you to get a JSON list from a simple .txt file.",
   "main": "bin/index.js",
   "bin": {
     "txtlist2json": "./bin/index.js"
   },
+  "files": [
+    "bin/"
+  ],
   "scripts": {
     "start": "node ."
   },
@@ -14,7 +17,7 @@
     "url": "git+https://github.com/JimmySene/Txt-list-to-JSON.git"
   },
   "keywords": ["json", "list", "text", "file", "txt to json", "txt 2 json"],
-  "author": "J.S",
+  "author": "J.S <jimmy.sene@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JimmySene/Txt-list-to-JSON/issues"
